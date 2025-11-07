@@ -1,5 +1,7 @@
 # dependencies
 node_modules/
+# build caches
+node-compile-cache/
 # next.js
 .next/
 out/
