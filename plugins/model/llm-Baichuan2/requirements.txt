@@ -1,5 +1,5 @@
 protobuf
-transformers==4.50.0
+transformers==4.53.0
 cpm_kernels
 torch>=2.0
 gradio
@@ -8,7 +8,7 @@ sentencepiece
 accelerate
 sse-starlette
 fastapi==0.99.1
-pydantic==1.10.7
+pydantic==1.10.13
 uvicorn==0.21.1
 xformers
 bitsandbytes
